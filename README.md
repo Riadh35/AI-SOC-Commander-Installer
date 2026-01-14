@@ -1,4 +1,4 @@
-# AI-SOC-Commander-Installer : Nouvelle Version à Tester !
+# AI-SOC-Commander-Installer : Nouvelle Version à Tester 
 Installeur MSI d'AI SOC Commander (Windows) 10-11...
 
 ********************************************************************************************************************************************************************************************************************************************
